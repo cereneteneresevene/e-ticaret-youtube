@@ -1,3 +1,5 @@
+Bu github reposu https://www.youtube.com/watch?v=M0QzGuzB16g&list=PLkPkRN4kE0vwXSa7ey3W8zvePuQE1yw8e Berkant Kayanın video serisi izlenerek yapılmıştır.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
